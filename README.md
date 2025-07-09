@@ -6,7 +6,7 @@ I was successful in my application for the position, and it is possible that thi
 
 
 
-\## Traders' Translator
+## Traders' Translator
 
 
 
@@ -16,7 +16,7 @@ This requires you to convert numbers and units. All trade is based on the roman 
 
 
 
-\## Task
+## Task
 
 
 
@@ -30,7 +30,7 @@ This is directly followed by your questions.
 
 
 
-\### Input:
+### Input:
 
 
 
@@ -64,7 +64,7 @@ how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
 
 
 
-\### Expected output:
+### Expected output:
 
 
 
@@ -88,7 +88,7 @@ Of course, the program should be able to handle all questions that are formatted
 
 
 
-\### Roman numerals
+### Roman numerals
 
 
 
